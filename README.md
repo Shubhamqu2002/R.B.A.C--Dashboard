@@ -78,7 +78,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-Your Name - [ShubhamSinha](https://github.com/yourgithub)
+Your Name - [ShubhamSinha](https://github.com/Shubhamqu2002)
 
 ---
 
