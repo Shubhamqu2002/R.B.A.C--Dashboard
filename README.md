@@ -40,8 +40,10 @@ git clone https://github.com/yourusername/rbac-dashboard.git
 
 
 ## 📱 Screenshots
-
-[Add your screenshots here]
+![Screenshot 2024-11-25 125211](https://github.com/user-attachments/assets/4a9b3ba2-c27e-44a2-8d73-286d66711979)
+![Screenshot 2024-11-25 125223](https://github.com/user-attachments/assets/b469ad37-45c4-4652-be49-8efdbee61351)
+![Screenshot 2024-11-25 125237](https://github.com/user-attachments/assets/f1397c4c-667f-47a5-85d9-8c7337317fec)
+![Screenshot 2024-11-25 125247](https://github.com/user-attachments/assets/954fd528-8920-4adc-b193-78b382a76fe3)
 
 ## 🎯 Key Features Breakdown
 
